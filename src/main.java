@@ -5,4 +5,8 @@ public class main {
         System.out.println("teste2");
     }
 
+    void teste(){
+        System.out.println("oi");
+    }
+
 }
