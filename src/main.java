@@ -10,4 +10,8 @@ public class main {
         System.out.println("rsdhioshj");
     }
 
+    void teste(){
+        System.out.println("oi");
+    }
+
 }
